@@ -29,11 +29,11 @@ public class AlignementCase {
         this.position = position;
     }
 
-/*    public LinkedList<Case> getCasesLibre() {
+   public LinkedList<Case> getCasesLibre() {
         return ;
     }
 
     public Case getCaseNum(int num){
         return ;
-    }*/
+    }
 }
